@@ -1,4 +1,4 @@
-# SFML-BoilerPlate
+# SFML Boiler Plate 🎛️
 Boiler plate for SFML project.
 
 ## Steps 📋
