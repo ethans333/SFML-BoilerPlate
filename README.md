@@ -2,5 +2,5 @@
 Boiler plate for SFML project.
 
 ## Steps 📋
-Build with ```mingw32-make```
-Run main.exe
+  Build with ```mingw32-make```\
+  Run main.exe
